@@ -50,7 +50,7 @@ Passionate about building intelligent systems — from classic ML models to mode
 ---
 
 ## 📂 Projects (Coming Soon 🚧)  
-I am in the process of making my full portfolio as recording all the project working takes time, but i will soon update it here. 
+I am in the process of making my full Portfolio as recording all the projects and their workings is time consuming, but i will soon update it here. 
 Some of the projects are:
 - 📊 **Customer Segmentation & Recommendation Systems**  
 - 🧠 **Handwritten Text Classification NLP Model**  
