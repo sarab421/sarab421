@@ -29,7 +29,7 @@ Passionate about building intelligent systems — from classic ML models to mode
 
 ## 🚀 Experience  
 
-**Smart Zone Leaders (Pvt) Ltd** – *Kharian, Punjab, Pakistan*  | *Sep 2024 – Present
+**Smart Zone Leaders (Pvt) Ltd** – *Kharian, Punjab, Pakistan*  | Sep 2024 – Present
 - **Machine Learning Engineer (Full-time)** | 12 mos*  
   - Worked with **Python, LangChain, and +12 skills** to build ML and AI-driven solutions.  
 - **Machine Learning Engineer (Internship)** | 2 mos*  
