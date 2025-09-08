@@ -31,27 +31,27 @@ Passionate about building intelligent systems — from classic ML models to mode
 
 **Smart Zone Leaders (Pvt) Ltd** – *Kharian, Punjab, Pakistan*  | Sep 2024 – Present
 - **Machine Learning Engineer (Full-time)** | 12 mos*  
-  - Worked with **Python, LangChain, and +12 skills** to build ML and AI-driven solutions.  
+  - Worked with **Python, LangChain, CrewAI, Agentic Systems, Azure ML, Databricks cloud enviroment, AWS Sagemaker** to build ML and AI-driven solutions.  
 - **Machine Learning Engineer (Internship)** | 2 mos*  
-  - Gained hands-on experience with **Python, Machine Tools, and +5 skills**.  
+  - Gained hands-on experience with **Python, Machine Learning**.  
 
 
 
 **University of Gujrat** – *Gujrat District, Punjab, Pakistan (On-site)*  
 - **Teacher Assistant (Part-time)** | *Mar 2024 – Jul 2024 · 5 mos*  
-  - Assisted in **University Lecturing, Python**, and +3 academic skills.  
+  - Assisted in **University Lecturing, Python, Machine Learning**.  
 
 
 
 **Peace Computer College** – *Gujrat District, Punjab, Pakistan (On-site)*  
 - **Teacher (Part-time)** | *Dec 2022 – Jan 2024 · 1 yr 2 mos*  
-  - Taught **Node.js, React.js, and +4 related skills**.  
+  - Taught **Computer Science *.  
 
 
 
 **Apex Elite Solutions** – *Bhimbar, Azad Kashmir, Pakistan (Remote)*  
 - **Project Intern** | *Jul 2022 – Nov 2022 · 5 mos*  
-  - Worked on projects using **Git, React.js, and +3 skills**.  
+  - Worked on projects using ** React.js.  
 
 ---
 
