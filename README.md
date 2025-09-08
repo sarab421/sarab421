@@ -35,13 +35,19 @@ Passionate about building intelligent systems — from classic ML models to mode
 - **Machine Learning Engineer (Internship)** | 2 mos*  
   - Gained hands-on experience with **Python, Machine Tools, and +5 skills**.  
 
+
+
 **University of Gujrat** – *Gujrat District, Punjab, Pakistan (On-site)*  
 - **Teacher Assistant (Part-time)** | *Mar 2024 – Jul 2024 · 5 mos*  
   - Assisted in **University Lecturing, Python**, and +3 academic skills.  
 
+
+
 **Peace Computer College** – *Gujrat District, Punjab, Pakistan (On-site)*  
 - **Teacher (Part-time)** | *Dec 2022 – Jan 2024 · 1 yr 2 mos*  
   - Taught **Node.js, React.js, and +4 related skills**.  
+
+
 
 **Apex Elite Solutions** – *Bhimbar, Azad Kashmir, Pakistan (Remote)*  
 - **Project Intern** | *Jul 2022 – Nov 2022 · 5 mos*  
